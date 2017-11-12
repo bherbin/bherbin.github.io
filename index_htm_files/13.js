@@ -5,9 +5,9 @@ window.local_mosaic_slide_63_data = [
  theme: "0"
 },
 {
- heading: "index_htm_files/2371.png",
- image: "index_htm_files/2389.jpg",
+ heading: "index_htm_files/2770.png",
+ image: "index_htm_files/2777.jpg",
  link: "#",
- text: "index_htm_files/2390.png"
+ text: "index_htm_files/2778.png"
 }
 ];
